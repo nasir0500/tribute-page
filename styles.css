@@ -1,0 +1,79 @@
+ *{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    width: 98%;
+    margin: 30px auto;
+    background-color: #eee;
+}
+
+#title{
+    text-align: center;
+    padding: 30px;
+}
+
+#title p{
+    margin-top: 15px;
+}
+
+#img-div{
+    background-color: white;
+    width: 95%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+#img-div #image{
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    height: auto;
+}
+
+#img-caption{
+    text-align: center;
+    margin: 20px 30px;
+}
+
+#tribute-info{
+    margin: 0 auto;
+    
+}
+
+#tribute-info h2{
+    text-align: center;
+    margin: 50px 0;
+}
+
+ul{
+    max-width: 550px;
+    margin: 0 auto;
+}
+
+ul li{
+    font-size: 18px;
+    margin-bottom: 20px;
+    line-height: 25px;
+}
+
+ul li span{
+    font-weight: bold;
+}
+
+#tribute-info p{
+    font-style: italic;
+    margin: 30px auto;
+    line-height: 22px;
+    max-width: 550px;
+}
+
+.footer{
+    overflow: hidden;
+}
+
+.footer h3{
+    text-align: center;
+    margin: 50px 8px;
+}
